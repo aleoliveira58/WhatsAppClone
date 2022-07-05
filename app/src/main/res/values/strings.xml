@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WahtsApp Clone</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="chats">CHATS</string>
+    <string name="status">STATUS</string>
+    <string name="call">CALL</string>
+</resources>
